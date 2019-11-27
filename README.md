@@ -1,2 +1,2 @@
 # CDM-Reproducible
-# SNU-SNUBH CDM project
+# SNUBH-SNU CDM project
